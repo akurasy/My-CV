@@ -46,17 +46,20 @@ communication and inter-personal skill
 Professional Experience
 
 Enchelon Global
+
 Devops Engineer (Sept, 2022 – Till Date)
 The project at Enchelon Global , I am working as a cloud solution architect and DevOps engineer. I 
 am responsible to ensure the running of the application and to ensure the application passes 
 through stages of deployement (dev, testing, pre-prod, prod)
 
 TheItern
+
 DEVOPS ENGINEER (April, 2022- Aug,2022)
 In this project, as a Cloud DevOps Engineer, I am responsible for migrating applications 
 into AWS cloud and production environment by creating CI/CD pipelines using Jenkins.
 
 Contributions:
+
 • Set up CI/CD pipelines for Microservices and integrated tools such as Maven, Github 
 SonarQube, Nexus, Docker, Slack for providing immediate feedback to DEV teams after code 
 check-in Provisioned Dynamic Jenkins Docker slaves using DockerHost for CICD Pipelines 
@@ -76,21 +79,25 @@ Setup Kubernetes clusters using Amazon EKS
 
 
 Education
+
 Federal University of Technology, Akure. 
 Bachelor of Technology, Dept of Biochemistry, Akure, Nigeria. 2008-2013
 
 Training and Skills
+
 Jenkins, Terraform, Ansible, Puppet, Docker, hands on training on AWS resources, kubernetes, script 
 writing, linux server administration, terraform. GIT and Github, Basic Python Programming 
 Language.
 
 
 Reference
+
 Mr Raymond Momodu
 Senior Soltion Architect and Devops Professional
 TheItern
 Ray.itern@gmail.com
 +2348033014082
+
 
 Mr Segun Ajalode
 MD
