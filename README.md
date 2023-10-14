@@ -89,6 +89,9 @@ Jenkins, Terraform, Ansible, Puppet, Docker, hands on training on AWS resources,
 writing, linux server administration, terraform. GIT and Github, Basic Python Programming 
 Language.
 
+Certification 
+AWS Cloud Solution Atchitect - Associate.  (AWS SAA C03)
+
 
 Reference
 
