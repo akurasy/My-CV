@@ -90,7 +90,8 @@ writing, linux server administration, terraform. GIT and Github, Basic Python Pr
 Language.
 
 Certification 
-AWS Cloud Solution Atchitect - Associate.  (AWS SAA C03)
+
+AWS Cloud Solution Architect - Associate.  (AWS SAA C03)
 
 
 Reference
