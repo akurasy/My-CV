@@ -1,117 +1,215 @@
-# +2348037700049 Oke Babatunde
+# *OKE BABATUNDE*
 
-Babatundeoke123@gmail.com 
+DevOps Engineer/Cloud Solutions Architect
 
-DevOps Engineer
+ Email: Babatundeoke123@gmail.com
 
-I have four (4) years of progressive experience in IT. three (3) years of hands-on 
-experience in DevOps role with a broad set of skill relating the use of CI/CD tools, 
-monitoring, automation, and cloud computing.
-Highly skilled in troubleshooting and resolving issues using search engines and 
-documentations.
+ Phone: +2348037700049 
 
-Expertise
+ LinkedIn: https://www.linkedin.com/in/babatunde-oke-7154a4102/
 
-• Experience in migrating applications to AWS Extensive experience in setting up 
-CI/CD pipelines using tools such as Jenkins, Maven, Docker, Nexus, Artifactory, 
-and slack Strong experience in automating infrastructure setup on AWS cloud 
-using Terraform.
-• Extensive experience in distributed Agile and Scrum methodologies to develop 
-best practices for software development and implementation.
-• Strong experience in working with version control systems such as Git, GitHub, 
-Bitbucket, AWS Repos 
-• Experience working with developing scripts and automation tools used for 
-building, integrating and deploying software releases to multiple environments. 
-• Strong hands-on experience in scripting languages such as Groovy, JSON, YAML, 
-Shell scripting. 
-• Strong experience in code quality and code coverage tools such as SonarQube, 
-JaCoCo and JUnit. Good knowledge of virtualization and container technology like 
-Docker. 
-• Experience in creating Docker-files and working with Docker containers. 
-• Have good knowledge in Kubernetes and have setup clusters in Amazon EKS. 
-• Strong exposure in Ansible for managing software installations, patch 
-management to servers.
-• Strong knowledge on practicing TDD, automating Junit tests using Maven in 
-Jenkins.
-• Strong knowledge in Tomcat, WebLogic servers on different Operating Systems 
-like Windows and UNIX.
-• Participated in the release cycle of the product which involved environments 
-like Development, QA, UAT and Production. 
-• Worked with project documentation and documented other application related 
-issues, bugs on internal wiki website.
-• A highly motivated, energetic individual, a team player with excellent 
-communication and inter-personal skill
+# Professional Summary
+
+I am a DevOps Engineer and Cloud Solutions Architect with 5 years of experience designing, 
+
+implementing, and managing complex IT infrastructures. I have a proven ability to deliver highquality software through automation (CI/CD pipelines, Infrastructure as Code) and collaboration 
+
+across development and operations teams. I am expertise in Containerization, Kubernetes, 
+
+Ansible, Monitoring tools,CI/CD Pipeline, IaC and managing robust cloud infrastructures to 
+
+optimize performance, cost, security, and scalability. I have a track record of reducing 
+
+deployment times by 30% and improving system uptime by 40%
+
+# PROFESSIONAL EXPERIENCE 
+
+# Wittytech (Devops and Cloud Engineer) 
+
+Dec 2023 – Present
+
+● Led the design and implementation of DevOps and Cloud Environment for robust application 
+
+delivery, optimizing processes and ensuring efficiency. 
+
+● Implemented DevOps best practices across the entire application lifecycle, from planning and 
+
+building to testing, deployment, and monitoring, resulting in streamlined workflows and 
+
+improved productivity. 
+
+● Containerized heavyweight applications using Docker, enhancing security and reducing 
+
+resource overheads significantly. 
+
+●Utilized Terraform for Infrastructure as Code (IaC) to provision cloud infrastructures 
+
+efficiently, minimizing manual intervention and ensuring consistency. 
+
+●Established GitHub Action CI/CD pipelines to automate codebase triggers, builds, and deployments, reducing deployment times and enhancing reliability. 
+
+●Achieved a 65% reduction in cloud costs while maintaining optimal performance and 
+
+minimizing downtime through continuous optimization efforts. 
+
+●Documented DevOps practices comprehensively, ensuring knowledge transfer and 
+
+maintaining consistency across teams. 
+
+●Provided training and mentorship to junior engineers in DevOps methodologies, fostering skill 
+
+development and team cohesion. 
+
+●Conducted regular security checks to identify vulnerabilities and implemented necessary 
+
+measures to mitigate risks effectively.
+
+# Enchelon Global Resources
+
+June 2022 – Nov 2023
+
+(DevOps Engineer and AWS Solutions Architect) 
+
+● Spearheaded the development, maintenance, and security of CICD pipelines, ensuring 
+
+smooth and secure software delivery.● Managed server patching and upgrades, ensuring 
+
+system integrity and stability. 
+
+● Wrote, modified, and maintained Ansible playbooks and automation scripts, enhancing 
+
+efficiency and consistency. 
+
+● Leveraged Terraform, AWS SDK, AWS CLI/UI, kops, and Ansible to provision and configure 
+
+AWS Cloud infrastructures, optimizing resources and scalability. 
+
+● Facilitated recruitment and onboarding/training processes for new team members, fostering 
+
+skill development and team cohesion. 
+
+●Orchestrated Kubernetes clusters, enabling auto-scaling and load balancing for efficient 
+
+resource utilization. 
+
+●Automated infrastructure provisioning and configuration using Terraform and Ansible with 
+
+dynamic inventory, improving deployment speed and reliability. 
+
+●Provided technical guidance and mentorship to junior team members, promoting knowledge 
+
+sharing and professional growth. 
+
+●Identified opportunities for automation and process improvement, collaborating with cross 
+
+functional teams to drive efficiency and quality.
 
 
-Professional Experience
+# Medheights Specialities
 
-Enchelon Global
+Nov 2020 – April 2022
 
-Devops Engineer (Sept, 2022 – Till Date)
-The project at Enchelon Global , I am working as a cloud solution architect and DevOps engineer. I 
-am responsible to ensure the running of the application and to ensure the application passes 
-through stages of deployement (dev, testing, pre-prod, prod)
+(DevOps Engineer) 
 
-TheItern
+● Deployed, managed, and maintained applications and systems on AWS, optimizing 
 
-DEVOPS ENGINEER (April, 2022- Aug,2022)
-In this project, as a Cloud DevOps Engineer, I am responsible for migrating applications 
-into AWS cloud and production environment by creating CI/CD pipelines using Jenkins.
+performance and reliability. 
 
-Contributions:
+● Executed and monitored DevOps processes for backlog management, testing, and 
 
-• Set up CI/CD pipelines for Microservices and integrated tools such as Maven, Github 
-SonarQube, Nexus, Docker, Slack for providing immediate feedback to DEV teams after code 
-check-in Provisioned Dynamic Jenkins Docker slaves using DockerHost for CICD Pipelines 
-• Wrote Ansible playbooks from scratch in YAML. Installing, setting up & Troubleshooting 
-Ansible, created and automated platform environment setup. Set up Git repositories and SSH 
-Keys in GitHub for Agile teams. Integrated GitHub web hooks into Jenkins to automate the 
-code check-out process. 
-• Implemented the setup for master slave architecture to improve the performance of Jenkins. 
-Imported existing infrastructure into Terraform using Terraform Import command 
-• Created Docker-file and automated docker image creation using Jenkins and Docker. 
-• Automated infrastructure provisioning on AWS using Terraform and Cloud formation.
-• Test for bugs in source code using code quality tools such as SonarQube, JaCoCo and JUnits. 
-• Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds 
-when conditions not met. Rebuild of entire existing platform over to Docker containers. 
-Setup Kubernetes clusters using Amazon EKS
-• Deploying promatheus and grafana dashboard for monitoring purposes.
+environment maintenance, enhancing efficiency. 
 
+●Standardized code branching and tagging in code repositories using GIT, BitBucket, and 
 
-Education
+GitHub, ensuring code base integrity. 
 
-Federal University of Technology, Akure. 
-Bachelor of Technology, Dept of Biochemistry, Akure, Nigeria. 2008-2013
+●Implemented security best practices in AWS, including multi-factor authentication, 
 
-Training and Skills
+encryption, and DDOS attack mitigation, ensuring data protection. 
 
-Jenkins, Terraform, Ansible, Puppet, Docker, hands on training on AWS resources, kubernetes, script 
-writing, linux server administration, terraform. GIT and Github, Basic Python Programming 
-Language.
+● Optimized costs through reserved instances, EC2 instance type selection, and S3 storage class 
 
-Certification 
+optimization, reducing expenses. 
 
-AWS Cloud Solution Architect - Associate.  (AWS SAA C03)
+● Designed and implemented high availability, scalable, and secure AWS solutions for critical 
 
+applications. 
 
-Reference
+●Automated resource provisioning and configuration management using Terraform, enhancing 
 
-Mr Raymond Momodu
+efficiency. 
 
-Senior Soltion Architect and Devops Professional
-TheItern
+●Orchestrated containerized applications with Kubernetes, optimizing resource utilization and 
 
-Ray.itern@gmail.com
+scaling. 
 
-+2348033014082
+● Established CI/CD pipelines with Jenkins, reducing release cycles by 75%. 
 
+# Theltern
 
-Mr Segun Ajalode
+April 2018 – October 2020
 
-MD
+(AWS Solution Architect) 
 
-Enchelon Global Resources
+● Configured multi-account architecture, IAM, governance, data security, and network settings 
 
-Ajalodesegun@gmail.com
+for AWS cloud environments. 
 
-+2347038913947
+● Designed and implemented system security measures and data assurance 
+
+protocols.●Architected AWS cloud network and services solutions to meet business 
+
+requirements. 
+
+●Implemented CloudTrail log file validation to track changes and ensure log file integrity. 
+
+●Implemented cost-effective solutions in non-production environments using instance 
+
+scheduler. 
+
+●Configured CloudWatch alarm rules for operational and performance metrics monitoring. 
+
+●Set up lifecycle policies to back up data from AWS S3 to AWS Glacier. 
+
+●Wrote configuration code to provision solutions using Ansible, CloudFormation, and 
+
+Terraform. 
+
+# EDUCATION 
+
+Federal University of Technology (Akure) - 2014: B.Tech Biochemistry 
+
+# CERTIFICATION
+
+AWS Solution Architect – Associate 
+
+# SKILLS & OTHER 
+
+# LANGUAGES 
+
+●Python ●Bash ●JSON ●Java ●G
+
+# OTHER TECHNOLOGIES 
+
+●AWS services: VPC, EC2, Auto Scaling, Systems Manager, EFS, S3 Lifecycle, SNS with 
+
+CloudWatch alarms, RDS (MultiAZ, Read Replicas), Elastic Cache, Elastic Search, Route 53 DNS, 
+
+API Gateway 
+
+●Cloud platforms: AWS, Namecheap
+
+●Infrastructure as Code (IAC): Terraform, CloudFormation 
+
+●Configuration Management: Ansible 
+
+●Containers and Orchestration: Docker, Kubernetes●CI/CD Tools: Jenkins, GitLab CI/CD, GitHub 
+
+Actions 
+
+●Version Control: Git 
+
+●Monitoring and Logging: AWS CloudWatch, Prometheus, Grafana, ELK Stack, DataDog 
+
+●Security: AWS IAM, Security Groups, Encryption 
+
