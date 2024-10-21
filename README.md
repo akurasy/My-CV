@@ -1,12 +1,12 @@
- #                                            *OKE BABATUNDE*
+# *OKE BABATUNDE*
 
-                                      DevOps Engineer/Cloud Solutions Architect
+DevOps Engineer/Cloud Solutions Architect
 
-                                         Email: Babatundeoke123@gmail.com
+Email: Babatundeoke123@gmail.com
        
-                                                Phone: +2348037700049 
+Phone: +2348037700049 
 
-                              LinkedIn: https://www.linkedin.com/in/babatunde-oke-7154a4102/
+LinkedIn: https://www.linkedin.com/in/babatunde-oke-7154a4102/
 
 # Professional Summary
 
